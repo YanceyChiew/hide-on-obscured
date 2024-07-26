@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=hide-on-obscured
+IAge=3
+Name=Hide On Obscured
+Description=Hide window on minimized (or fully occluded).\nyou may retrieve window from notification area.
+Authors=Yancey Chiew <YanceyChiew@gmail.com>
+Copyright=Copyright © 2024 Yancey Chiew
